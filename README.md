@@ -27,13 +27,13 @@ A **JavaFX-based desktop application** that helps manage and organize thesis pro
 > 📂 Save all images in a `screenshots/` folder and link them like shown below.
 
 ### 🔐 Login Prompt
-![Login](screenshots/login.png)  
+![Login](screenshots/login_success.png)  
 *A simple login screen prompting the user for credentials.*
 
 ---
 
 ### 🛠️ Admin Dashboard
-![Admin View](screenshots/admin_view.png)  
+![Admin View](screenshots/thesis_database.png)  
 *Admin view for adding/editing student and thesis records.*
 
 ---
