@@ -38,17 +38,11 @@ A **JavaFX-based desktop application** that helps manage and organize thesis pro
 
 ---
 
-### 👨‍🎓 Student Dashboard
-![Student View](screenshots/student_view.png)  
-*Student view to browse thesis records and submit requirements.*
-
----
-
-## 🧑‍💻 Technologies Used
+## 🧑‍💻 Programs Used
 
 - Java 11+
 - JavaFX
 - SceneBuilder (for GUI layout)
 - MVC pattern
-- IDE: IntelliJ / Eclipse (Recommended)
+- IDE: IntelliJ
 
